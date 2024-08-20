@@ -1,61 +1,40 @@
-![lQLPJwospC-gbXbNBVrNBVKwlwxMTLrqQdEEgNMOuMAGAA_1362_1370 png_720x720q90g](https://github.com/Aklp42/maadaa.ai-FaEO-Dataset/assets/97498546/2b4b7d2a-faa7-4f44-a68d-448b4bf5c899)
+# Sunny Day City Road Dash Cam Video Dataset
 
-# maadaa.ai Fashion & e-Commerce Open Dataset
+![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/1X3lE6jeBoWXnJbv/img/8307e4a9-a17e-41be-8d29-133471038012.jpg)
 
-We're excited to unveil our comprehensive "Fashion & e-Commerce Open Dataset" designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
+![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/1X3lE6jeBoWXnJbv/img/29b3fdab-4344-4c5c-b573-e9827f9a2e42.jpg)
 
-The dataset is organized into 24 typical scenarios, showcasing the richness of real-world environments, conditions, and objects. It is carefully curated to reflect diverse and realistic situations, allowing models to be tested and refined under a wide range of conditions.
+![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/1X3lE6jeBoWXnJbv/img/dac9b297-732d-4512-88f4-30efc8c5e958.jpg)
 
-This dataset contains 33 meticulously fine-annotated sub-datasets. Each is labeled and annotated with a high degree of precision. These datasets offer a vast range of potential use cases, from object detection and segmentation to pose estimation and beyond.
+![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/1X3lE6jeBoWXnJbv/img/bd6c4333-8cb3-467d-ae34-fc5bf11b9b42.jpg)
 
-This dataset provides a unique context in various applications including personalized recommendations, virtual fittings, beauty AI, and product recognition. This extensive, versatile dataset is a significant resource that we believe will inspire a myriad of innovative solutions in the field.
+## Introduction
 
-# License
+The "Sunny Day City Road Dash Cam Video Dataset" captures the vibrant dynamics of city roads under sunny conditions, essential for autonomous driving systems' development. This dataset is recorded with high-resolution driving recorders, boasting over 1920 x 1080 resolution and a frame rate of over 33 fps, ensuring crystal-clear imagery and fluid motion capture. It includes bounding boxes and tags for more than 10 typical urban object categories, including humans, cars, electric bicycles, vans, trucks, and more, providing a rich training ground for AI to recognize and respond to various elements in sunlit urban environments.
 
-This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are free to:
+**If you has interested in the full version of the datasets,  featuring 4500 annotated images, please visit our website and leave a request.** 
 
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material.
+## Specification
 
-Under the following terms:
+|  **Data Type**  |  ![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/1X3lE6jeBoWXnJbv/img/c27c41b9-b43f-4000-aff0-c85c69318a44.webp)Video  |
+| --- | --- |
+|  **Volume**  |  About 4.5k annotated images  |
+|  **Data Collection**  |  riving Recorders Images. Resolution is over 1920 x 1080 and the number of frames per second of the video is over 33.  |
+|  **Annotation**  |  Bounding Box,Tags  |
+|  **Annotation Notes**  |  Total more than 10 typical object categories, such as human, car,electric bicycle,van,truck etc.  |
+|  **Application Scenarios**  |  Autonomous Driving  |
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial** — You may not use the material for commercial purposes.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+## About maadaa.ai
 
-For more details, please visit [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Since 2015, maadaa.ai has been dedicated to delivering specialized AI data services. Our key offerings include:
 
+*   **Data Collection**: Comprehensive data gathering tailored to your needs.
+    
+*   **Data Annotation**: High-quality annotation services for precise data labeling.
+    
+*   **Off-the-Shelf Datasets**: Ready-to-use datasets to accelerate your projects.
+    
+*   **Annotation Platform**: Maid-X is our data annotation platform built for efficient data annotation.
+    
 
-# Updates
-
-## June 2023 Update:
-
-We are thrilled to announce the release of "Fashion & E-Commerce Open Dataset v1.0" as a part of our "Fashion & e-Commerce Standard Datasets Lite". This newly introduced dataset comprises over 30,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
-
-
-# Website
-
-To read more about the dataset and access it, please visit [Fashion & E-commerce Open Dataset](https://maadaa.ai/datasets/open-dataset/fashion-ecommerce/?utm_medium=Referral&utm_source=github&utm_campaign=opendataset1).
-
-
-# Elements
-
-The dataset contains a variety of scenarios and annotations as described in the tables below:
-
-## Scenarios
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Clothing Classification | Clothing Keypoints | Clothing Segmentation | Clothing Pattern Classification |
-| Person And Clothing Segmentation | Scarf Segmentation | Fabrics Classification | Human Body Segmentation |
-| Human Body Contour Segmentation | Human Body Keypoints | Single-person Matting | Portrait Matting |
-| Portrait Segmentation | Face Parsing Segmentation | Facial Keypoints | Hair Segmentation |
-| Lips Segmentation | Eyelid Segmentation | E-commerce Product Classification | Objects Segmentation |
-| Object Matting | Bill OCR | Language OCR | Handwriting OCR |
-
-## Annotations
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Keypoints | Counter Segmentation | Classification | Semantic Segmentation |
-| Matting | Bounding Box | OCR | |
+We cater to various sectors, including automotive, healthcare, retail, and more, ensuring our clients receive the best data solutions for their AI initiatives.
